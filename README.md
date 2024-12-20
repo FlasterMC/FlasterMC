@@ -10,4 +10,6 @@
 
 ### Связаться со мной:
 <p align="left">
-<a href="https://t.me/FlasterMC" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="flastermc" height="40" width="40" /></a>
+<a href="https://t.me/FlasterMC" target="blank"><img align="center" src="https://github.com/FlasterMC/FlasterMC/blob/main/Telegram.svg" alt="flastermc" height="40" width="40" /></a>
+<p align="left">
+<a href="https://discordapp.com/users/850587022103150612" target="blank"><img align="center" src="https://github.com/FlasterMC/FlasterMC/blob/main/discord-icon-svgrepo-com.svg" alt="_flaster" height="40" width="40" /></a>
